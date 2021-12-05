@@ -1,0 +1,6 @@
+
+aoc-venv/
+*.ipynb
+.ipynb_checkpoints
+*.DS_Store
+*.txt
