@@ -4,3 +4,4 @@ aoc-venv/
 .ipynb_checkpoints
 *.DS_Store
 *.txt
+venv/
